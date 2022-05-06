@@ -10,5 +10,3 @@ Here is what we'll be covering the next 3 weeks
 
 * On May 20 Quicklaunch.py code starter
 
-
-Hehe, I'm being naught! -J
