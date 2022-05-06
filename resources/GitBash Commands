@@ -40,7 +40,7 @@ esc
     exit insert mode
 :w
     save
-:wq or ZZ (uppercase
+:wq or ZZ (uppercase)
     save and quit
 :q! or ZQ (uppercase)
     quit without saving
@@ -64,9 +64,9 @@ git clone https://github.com/example/example.git
     clones a remote repository and downloads all the files onto your computer
 git add file
     adds a file to staging area
-git commit -am 'commit title' 'description'
+git commit -am 'commit title' -m 'description'
     automatically adds all edited files
-git commit -m 'commit title' 'commit description'
+git commit -m 'commit title' -m 'commit description'
     moves all staged edits to commit
 
 git pull
