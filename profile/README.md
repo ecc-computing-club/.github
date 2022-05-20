@@ -1,11 +1,11 @@
 # Welcome to the Data Science Club at ECC! 👋
 
-## Congratulations! You've arrived at the 05/06 Code Launch Conference!
+Over the next few weeks, the club's organizing workshops to help members learn about real-world software tools and techniques. See what is planned:
 
-Here is what we'll be covering the next 3 weeks
+- [x] On May 06: GitHub and GitBash
+- [x] On May 20: Python: Package Management with Poetry
+- [ ] On May 27: Quicklaunch.py code starter
 
-- On May 06 GitHub and GitBash
+We also have a website 👇
 
-- On May 13 PIP package management
-
-- On May 20 Quicklaunch.py code starter
+- [https://datasciclubecc.github.io/website](https://datasciclubecc.github.io/website)
