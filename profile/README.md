@@ -1,5 +1,5 @@
-# Welcome to the Computer Science Club at ECC! 👋
+# Welcome to the Computing Club at ECC! 👋
 
-We also have a website 👇
+We have a website 👇
 
-- [https://ecc-cs-club.github.io/website](https://ecc-cs-club.github.io/website)
+- [https://ecc-computing-club.github.io/website/](https://ecc-computing-club.github.io/website/)
